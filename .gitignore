@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
+=======
+# Python
+>>>>>>> f6faa02 (Initial commit of Artigraphics v0.1: RSS to infographics web app)
 __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
 # C extensions
 *.so
 
@@ -172,3 +177,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+# Virtual environment
+venv/
+.env
+
+# Generated files
+static/infographics/*
+static/debug.svg
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+>>>>>>> f6faa02 (Initial commit of Artigraphics v0.1: RSS to infographics web app)
